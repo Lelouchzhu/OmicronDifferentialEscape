@@ -7,4 +7,5 @@ Antigenic map was generated using the R package “Racmacs” (version 1.1.18) i
 Citations:
 Evidence for emergence of SARS-CoV-2 Omicron variants under immune selection.
 Chee Wah Tan, Wan Ni Chia, Feng Zhu, Barnaby E Young, Napaporn Chantasrisawad, Shi-Hsia Hwa, Aileen Ying-Yan Yeoh, Beng Lee Lim, Wee Chee Yap, Surinder Kaur MS Pada,Seow Yen Tan, Watsamon Jantarabenjakul, Lim Kai Toh, Shiwei Chen, Jinyan Zhang, YunYan Mah, Vivian Chih-Wei Chen, Mark I-C Chen, Supaporn Wacharapluesadee, Alex Sigal, Opass Putcharoen, David Chien Lye and Lin-Fa Wang
+
 Nature Microbiology
